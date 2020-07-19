@@ -12,10 +12,14 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
+    "crypto": "^1.0.1",
     "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
     "ejs": "~2.6.1",
     "express": "~4.16.1",
+    "express-validator": "^6.6.0",
     "http-errors": "~1.6.3",
+    "mongoose": "^5.9.25",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.4"
   },
